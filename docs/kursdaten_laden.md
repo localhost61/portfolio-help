@@ -118,7 +118,7 @@ Der Entwickler von JsonPath hat eine [kleine Anwendung](http://jsonpath.herokuap
 
 Manche Seiten verteilen die Daten auf mehrere Requests. Wenn eines der Macros in der URL gefunden wird, wird die URL dynamisch zusammengesetzt und PP macht solange Aufrufe bis keine weiteren Kurse mehr gefunden werden.
 
-In einer URL dürfen mehrere Marcos verwendet werden. Allerdings dürfen ```DATE``` und ```PAGE``` nicht gemeinsam verwendet werden, weil beide unterschiedliche Iterationen von URLs generieren.
+In einer URL dürfen mehrere Macros verwendet werden. Allerdings dürfen ```DATE``` und ```PAGE``` nicht gemeinsam verwendet werden, weil beide unterschiedliche Iterationen von URLs generieren.
 
 [<i class="fa fa-comments-o" aria-hidden="true"></i> Forum: Dynamische Kursdaten-URLs](https://forum.portfolio-performance.info/t/dynamische-kursdaten-urls/2929/1)
 
